@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bayot",
+    "username": "greg11",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": -2062.488,
+    "y": 70,
+    "z": 3589.528
   },
   "utils": {
     "auto-auth": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "bayot si riley",
+        "big boy",
+        "8080"
       ]
     },
     "chat-log": true,
